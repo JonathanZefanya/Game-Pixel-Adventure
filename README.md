@@ -38,5 +38,5 @@ MATH
 >> Change Map <br>
 
 ## Thanks You For Read this
-Don't forget to follow me :)
+Don't forget to follow me :) <br>
 Jonathan Natannael Zefanya
