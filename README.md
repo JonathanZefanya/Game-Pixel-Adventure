@@ -18,7 +18,7 @@ MATH
 https://youtu.be/QU1pPzEGrqw?si=XCoSlQTVt32Od5Aa
 
 ## Action
-<b> Movement: </b> <br><u>
+<u><b> Movement: </b> <br></u>
 <b>W</b> to up <br>
 <b>S </b> to down <br>
 <b> A </b> to left <br>
