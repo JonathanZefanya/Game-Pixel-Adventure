@@ -15,21 +15,21 @@ MATH
 
 ## Action
 Movement:
-<br>W</br> to up
-<br>S</br> to down
-<br>A</br> to left
-<br>D</br> to right
+<b>W</b> to up <br>
+<b>S </b> to down <br>
+<b> A </b> to left <br>
+<b> D </b> to right <br>
 Attack
-<br>SPACE</br> Pyschal Attack
-<br>C</br> MAgic Attack
-Change Weapon/Magic
-<br>Q</br> Weapon Change
-<br>E</br> Magic Change
+<b> SPACE </b> Pysichal Attack <br>
+<b> C </b> Magic Attack <br>
+Change Weapon/Magic <br>
+<b> Q </b> Weapon Change <br>
+<b> E </b> Magic Change <br>
 
 ## MODIFIY 
->> Change button ACTION
->> Change Character
->> Change Map
+>> Change button ACTION <br>
+>> Change Character <br>
+>> Change Map <br>
 
 ## Thanks You For Read this
 Don't forget to follow me :)
