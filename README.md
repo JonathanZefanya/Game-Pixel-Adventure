@@ -23,9 +23,11 @@ https://youtu.be/QU1pPzEGrqw?si=XCoSlQTVt32Od5Aa
 >> <b>S </b> to down <br>
 >> <b> A </b> to left <br>
 >> <b> D </b> to right <br>
+
 <b> Attack: </b> <br>
 >> <b> SPACE </b> Pysichal Attack <br>
 >> <b> C </b> Magic Attack <br>
+
 <b> Change Weapon/Magic: </b> <br>
 >> <b> Q </b> Weapon Change <br>
 >> <b> E </b> Magic Change <br>
