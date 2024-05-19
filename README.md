@@ -11,18 +11,20 @@ MATH
 ![Alt text](https://github.com/JonathanZefanya/Game-Pixel-Adventure/blob/main/graphics/test/player.png)
 
 ## Tutorial
-![Alt text](https://youtu.be/QU1pPzEGrqw?si=YSu4Gwonx6nLOfjh)
+<iframe width="420" height="315"
+src="https://youtu.be/QU1pPzEGrqw?si=YSu4Gwonx6nLOfjh">
+</iframe>
 
 ## Action
-Movement:
+<b> Movement: </b> <br>
 <b>W</b> to up <br>
 <b>S </b> to down <br>
 <b> A </b> to left <br>
 <b> D </b> to right <br>
-Attack
+<b> Attack: </b> <br>
 <b> SPACE </b> Pysichal Attack <br>
 <b> C </b> Magic Attack <br>
-Change Weapon/Magic <br>
+<b> Change Weapon/Magic: </b> <br>
 <b> Q </b> Weapon Change <br>
 <b> E </b> Magic Change <br>
 
