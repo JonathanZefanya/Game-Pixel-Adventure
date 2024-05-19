@@ -11,7 +11,7 @@ MATH
 ![Alt text](https://github.com/JonathanZefanya/Game-Pixel-Adventure/blob/main/graphics/test/player.png)
 
 ## Tutorial
-[![IMAGE ALT TEXT HERE](![alt text](image.png))](https://youtu.be/QU1pPzEGrqw?si=YSu4Gwonx6nLOfjh)
+https://youtu.be/QU1pPzEGrqw?si=XCoSlQTVt32Od5Aa
 
 ## Action
 <b> Movement: </b> <br>
