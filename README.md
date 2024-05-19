@@ -11,14 +11,7 @@ MATH
 ![Alt text](https://github.com/JonathanZefanya/Game-Pixel-Adventure/blob/main/graphics/test/player.png)
 
 ## Tutorial
-<iframe src="https://youtu.be/QU1pPzEGrqw?si=YSu4Gwonx6nLOfjh"> </iframe>
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/QU1pPzEGrqw?si=YSu4Gwonx6nLOfjh"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![IMAGE ALT TEXT HERE](![alt text](image.png))](https://youtu.be/QU1pPzEGrqw?si=YSu4Gwonx6nLOfjh)
 
 ## Action
 <b> Movement: </b> <br>
