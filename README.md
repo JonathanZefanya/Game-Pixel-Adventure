@@ -1,8 +1,12 @@
 ## PIXEL ADVENTURE
+Game usefull python
 
 ## REQUIRMENTS
 PYGAME
 MATH
+
+## How To Play
+>> folder path> python main.py
 
 ## MAP
 ![Alt text](https://github.com/JonathanZefanya/Game-Pixel-Adventure/blob/main/graphics/tilemap/ground.png)
