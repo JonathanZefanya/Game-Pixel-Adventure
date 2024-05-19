@@ -11,9 +11,7 @@ MATH
 ![Alt text](https://github.com/JonathanZefanya/Game-Pixel-Adventure/blob/main/graphics/test/player.png)
 
 ## Tutorial
-<iframe width="420" height="315"
-src="https://youtu.be/QU1pPzEGrqw?si=YSu4Gwonx6nLOfjh">
-</iframe>
+<iframe src="https://youtu.be/QU1pPzEGrqw?si=YSu4Gwonx6nLOfjh"> </iframe>
 
 ## Action
 <b> Movement: </b> <br>
