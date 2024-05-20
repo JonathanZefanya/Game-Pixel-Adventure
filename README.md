@@ -1,9 +1,8 @@
 ## PIXEL ADVENTURE
 Game usefull python
 
-## REQUIRMENTS
+## REQUIREMENTS
 PYGAME<br>
-MATH
 
 ## How To Play
 >> folder path> python main.py
@@ -18,7 +17,7 @@ MATH
 <a href="https://youtu.be/QU1pPzEGrqw?si=XCoSlQTVt32Od5Aa" target="_blank">Click Here</a>
 
 ## Action
-<b> Movement: </b> <br>
+<b> Movement (WASD): </b> <br>
 >> <b>W</b> to up <br>
 >> <b>S </b> to down <br>
 >> <b> A </b> to left <br>
@@ -33,9 +32,9 @@ MATH
 >> <b> E </b> Magic Change <br>
 
 ## MODIFIY 
->> Change button ACTION <br>
->> Change Character <br>
->> Change Map <br>
+>> Button ACTION <br>
+>> Character <br>
+>> Map <br>
 
 ## Thanks You For Read this
 Don't forget to follow me :) <br>
